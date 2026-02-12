@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/mohamadreza2780/node-js-bot/issues"
   },
-  "homepage": "https://github.com/mohamadreza2780/node-js-bot#readme"
+  "homepage": "https://github.com/mohamadreza2780/node-js-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.67.0"
+  }
 }
