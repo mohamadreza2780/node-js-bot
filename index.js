@@ -17,3 +17,4 @@ bot.onText(/\/start/, (msg, match) => {
     const chatId = msg.chat.id;
     bot.sendMessage(chatId, "hello");
 })
+dfg
