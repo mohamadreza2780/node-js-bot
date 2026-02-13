@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/mohamadreza2780/node-js-bot#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.67.0"
+    "node-telegram-bot-api": "^0.67.0",
+    "socks-proxy-agent": "^8.0.5"
   }
 }
